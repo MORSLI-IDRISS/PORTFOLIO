@@ -45,10 +45,10 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone git@github.com:MORSLI-IDRISS/PORTFOLIO.git
 
 # Navigate into the project directory
-cd your-repo-name
+cd portfolio
 
 # Install dependencies
 npm install
@@ -59,5 +59,5 @@ npm run dev
 
 ## 📬 Contact
 
-📧 Email: morsli.idriss.dev@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/morsli-idriss](https://www.linkedin.com/in/morsli-idriss)  
+📧 Email: morsliidriss22@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/morsli-idriss](https://www.linkedin.com/in/idriss-morsli-a95815234/)  
